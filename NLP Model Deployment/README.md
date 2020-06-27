@@ -41,14 +41,14 @@ Output:
   Year = {2020},
   Publisher = {GitHub},
   Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/insertNewUrlHere}}
+  Howpublished = {\url{https://github.com/JTBassett}}
 }
 ```
 
 ## Contacts
 
 1. [Linkedin](https://in.linkedin.com/in/bassettjames)
-2. [GitHub](https://github.com/insertNewUrlHere)
+2. [GitHub](https://github.com/JTBassett)
 
 ## License
 
